@@ -1,6 +1,6 @@
 # MacControl
-Fornecer informações sobre contato e politica de privacidade do App Mac Control
 
+Fornecer informações sobre contato e politica de privacidade do App Mac Control
 
 # Support:
 
@@ -70,4 +70,4 @@ This policy is effective as of 2020-07-19
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at gustavo.storck1@gmail.com.
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net
+This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net)
